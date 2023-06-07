@@ -5,5 +5,5 @@ Ich habe mich der Advent of Code 2022 herausforderung gestellt. Jedoch habe ich 
 
 ### Build With
 
--Dart
-+Flutter
+- Dart
+- Flutter
