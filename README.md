@@ -1,16 +1,9 @@
-# flutter_application_1
+# advent of code 2022
 
-A new Flutter project.
+Ich habe mich der Advent of Code 2022 herausforderung gestellt. Jedoch habe ich aus zeitlichen Gründen noch nicht alle Level bearbeitet. Dies werde ich erweitern, meine Termine es zulassen :D
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Build With
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Dart
++Flutter
